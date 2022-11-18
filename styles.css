@@ -1,6 +1,9 @@
 .holder{
     display: grid;
-    grid-template-columns: repeat(2, 60px);
+    grid-template-columns: repeat(2, 200px);
+    
+}
+.item{
     height: 200px;
     width: 200px;
 }
